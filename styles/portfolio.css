@@ -124,3 +124,7 @@ nav{
  .skill-description{
    color: #757575;
  }
+ /* resume-styles */
+ .resume-content{
+  display: flex;
+ }
